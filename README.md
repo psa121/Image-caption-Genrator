@@ -16,6 +16,7 @@ https://www.kaggle.com/datasets/adityajn105/flickr8k
 generate_caption("1001773457_577c3a7d70.jpg")
 
 ---------------------Actual---------------------
+
 startseq black dog and spotted dog are fighting endseq
 
 startseq black dog and tri-colored dog playing with each other on the road endseq
