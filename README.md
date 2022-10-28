@@ -11,4 +11,17 @@ https://www.kaggle.com/datasets/adityajn105/flickr8k
 ![download](https://user-images.githubusercontent.com/96285947/198582206-021a09cd-1682-4962-a9a6-17b5b14352ba.png)
 
 
+# Prediction
+
+generate_caption("1001773457_577c3a7d70.jpg")
+
+---------------------Actual---------------------
+startseq black dog and spotted dog are fighting endseq
+startseq black dog and tri-colored dog playing with each other on the road endseq
+startseq black dog and white dog with brown spots are staring at each other in the street endseq
+startseq two dogs of different breeds looking at each other on the road endseq
+startseq two dogs on pavement moving toward each other endseq
+--------------------Predicted--------------------
+startseq two dogs play with each other in the grass endseq
+![download (1)](https://user-images.githubusercontent.com/96285947/198582458-9b3f9c16-09b4-46e2-8faa-ea7e84fe7298.png)
 
